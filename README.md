@@ -10,7 +10,7 @@ Los conocimientos mínimos para poder sacar partido de este curso son:
 * Uso de **git**.
 * Conocimientos básicos de **aprendizaje automático**.
 
-Cada tema se constituye de una serie de diapositivas teóricas que te recomiendo leer en primer lugar para entender los conceptos esenciales. A continuación deberás ponerte manos a la obra y resolver un ejercicio práctico relacionado con los conceptos cubiertos. Puedes visualizar estos ejercicios en Github, pero para interactuar con ellos deberás **clonar este repositorio** y utilizar **Jupyter notebook** para trabajar con los cuadernos que hay en él. Se incluyen también las soluciones a los ejercicios, pero es aconsejable recurrir a ellas salvo para compararlas contra tu propia solución.
+Cada tema se constituye de una serie de diapositivas teóricas que te recomiendo leer en primer lugar para entender los conceptos esenciales. A continuación deberás ponerte manos a la obra y resolver un ejercicio práctico relacionado con los conceptos cubiertos. Puedes visualizar estos ejercicios en Github, pero para interactuar con ellos deberás **clonar este repositorio** y utilizar **Jupyter notebook** para trabajar con los cuadernos que hay en él. Se incluyen también las soluciones a los ejercicios, pero solo es aconsejable recurrir a ellas para compararlas contra tu propia solución. ¡Intenta resolver los ejercicios por tu cuenta!
 
 Respecto a los paquetes Python necesarios, te recomiendo que hagas uso de una distribución Anaconda 3 e instales los entornos de Text Mining y Deep Learning de [este repositorio](https://github.com/albarji/teaching-environments). Cada ejercicio te indicará qué entorno concreto debes utilizar.
 
